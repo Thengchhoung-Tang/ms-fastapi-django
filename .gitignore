@@ -118,7 +118,7 @@ venv.bak/
 .spyproject
 
 .DS_Store
-bin/ 
+bin/
 include/
 
 # Rope project settings
